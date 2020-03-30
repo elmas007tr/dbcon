@@ -1,0 +1,1 @@
+server=ELMAS;database=SITEDB;user id=ege;password=ege1995;
